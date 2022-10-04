@@ -1,0 +1,111 @@
+body{
+	font-family: "Lato";
+    color: #424551;
+} 
+[class*="__cekcia"]{
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+h1{
+    font-weight: 900;
+font-size: 46px;
+line-height: 130%;
+color: #1E212C;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+margin: 38px 0 26px 0;
+}
+.img{
+    margin-bottom: 73px;
+}
+h2{
+    font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+color: #1E212C;
+margin-bottom: 24px;
+
+}
+p{
+    line-height: 160%;
+    margin-bottom: 26px;
+}
+.hop{
+    padding-left: 58px;
+    background: url('../img/icos/rectangle267.png') 0 0 no-repeat, url('../img/icos/rectangle267.png') 18px 0 no-repeat;
+}
+ul{
+    margin-bottom: 25px;
+}
+li{
+    line-height: 160%;
+    padding-left: 32px;
+    background: url('../img/icos/vector.png') left center no-repeat;
+}
+.home__cekcia{
+color: rgb(254, 247, 255);
+background-image: url("../img/1.jpg") ;
+background-position: 0 0;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.ol{
+
+    display: list-item;
+}
+.love__cekcia{
+    padding-left: 400px;
+    background-image: url(../img/3.jpg);
+    background-position: left ;
+    background-repeat: no-repeat;
+    background-color: rgb(9, 247, 179);
+    background-size: 350px 200px;
+    margin-bottom: 50px;
+}
+.nice__cekcia{
+    font-size: 25px;
+    color: rgb(212, 113, 14);
+    background: url(../img/5.jpg) 0 0 / 100% no-repeat fixed;
+    margin-bottom: 20px;
+    } 
+    .nice{
+    background-color: rgba(240, 201, 7, 0.839);
+
+}
+.life__cekcia{
+    background: url(../img/2.jpg)round;
+    color: rgb(13, 247, 4);
+}
+.black{
+    width: 1200px;
+    height: 600px;
+    margin: 60px 20px 40px 400px;
+    background: url('../img/7.jpg') 20px 20px / 250px  no-repeat, url('../img/8.jpg') bottom left  no-repeat,  url('../img/9.jpg') top  right / 250px no-repeat, url('../img/10.jpg') 500px center  no-repeat, red; 
+    }
+h3{
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    color: #1E212C;
+    text-align: center;
+}
+footer{
+
+}
+footer{
+    padding-bottom: 45px;
+}
+footer a{
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 130%;
+    color: #062182f9;
+    box-shadow: 3px 4px 5px rgb(156, 10, 10);
+    border-radius: 20px;			
+    margin: 60px 20px 40px 300px;
+    color: rgb(145, 6, 6);
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+
+}
